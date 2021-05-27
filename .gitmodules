@@ -1,0 +1,3 @@
+[submodule "Plugins/ZMQUE"]
+	path = Plugins/ZMQUE
+	url = https://github.com/furo-org/ZMQUE
